@@ -1,0 +1,17 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\Users\\Administrator\\Desktop\\mingw4.4.5\\bin\\gcc.exe",
+    "editor.fontFamily": " 'Fira Code', Consolas, 'Courier New', monospaces",
+    "editor.fontSize": 20,
+    "editor.fontLigatures": true,
+    "files.autoSave": "afterDelay",
+    "code-runner.runInTerminal": true,
+    "luogu.defaultLanguage": "C++14 (GCC 9)",
+    "cph.general.defaultLanguage": "cpp",
+    "cph.general.defaultLanguageTemplateFileLocation": "C:\\Users\\Administrator\\Desktop\\OI\\example.cpp",
+    "files.associations": {
+        "iostream": "cpp",
+        "istream": "cpp",
+        "*.tcc": "cpp"
+    }
+
+}
