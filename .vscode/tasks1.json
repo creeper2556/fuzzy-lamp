@@ -7,7 +7,7 @@
             "args": [
                 // "-fdiagnostics-color=always",
                 "-D FRE",
-                "-O2",
+                // "-O2",
                 "-g",
                 "${file}",
                 "-o",
